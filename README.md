@@ -2,7 +2,7 @@
 
  - I am currently a student at university studying computer science 💻
  - Learning: C and MySQL 📃
- - Developing my skills in: HTML and CSS👨‍💻
+ - Developing my skills in: HTML, CSS and Python👨‍💻
 
 <div align="center">
 <br>
