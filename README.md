@@ -1,8 +1,9 @@
 <img src="https://github.com/cameronpovey/cameronpovey/blob/9cdc39b6db0c5daac901e5fd725d77a083b27043/banner.png">
 
  - I am currently a student at university studying computer science 💻
- - Learning: C and MySQL 📃
- - Developing my skills in: HTML, CSS and Python👨‍💻
+ - Learning:  📃
+ - Developing my skills in: C, C++👨‍💻
+ - Confident in: HTML, CSS, Javascript, MySQL, Python ⌨️
 
 <div align="center">
 <br>
