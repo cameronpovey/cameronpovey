@@ -1,8 +1,8 @@
 <img src="https://github.com/cameronpovey/cameronpovey/blob/9cdc39b6db0c5daac901e5fd725d77a083b27043/banner.png">
 
  - I am currently a student at university studying computer science 💻
- - Learning:  React 📃
- - Developing my skills in: Web-based applications 👨‍💻
+ - Learning:  Flutter & Dart 📃
+ - Developing my skills in: Full Stack Development 👨‍💻
  - Confident in: HTML, CSS, Javascript, MySQL, Python, C ⌨️
 
 <div align="center">
