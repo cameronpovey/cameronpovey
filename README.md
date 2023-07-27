@@ -96,3 +96,7 @@ Find me on Linkedin
 <a href="" target="blank">
 <img src="" width="50"/>
 </a>
+
+## Stats and Info
+<img src="https://github-readme-stats.vercel.app/api?username=cameronpovey&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronpovey&theme=blue-green" />
