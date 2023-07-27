@@ -1,22 +1,83 @@
-<img src="https://github.com/cameronpovey/cameronpovey/blob/9cdc39b6db0c5daac901e5fd725d77a083b27043/banner.png">
+## Hello, Im Cameron Povey 👋
 
- - I am currently a student at university studying computer science 💻
- - Learning:  Flutter & Dart 📃
- - Developing my skills in: Full Stack Development 👨‍💻
- - Confident in: HTML, CSS, Javascript, MySQL, Python, C ⌨️
+- 📚 A student at the University of the West of England studying Computer Science
+- 📃 Currently creating with: Flutter Applications & Full stack development 
+- 👨‍💻 Developing my skills in: Full Stack Development
 
-<div align="center">
-<br>
-<h4>What I code in:</h4>
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30">
-<img src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097008.png?token=exp=1636901879~hmac=6cf113dc4ac7d79488a6c4b80645564d" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/74/74897.png" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/376/376105.png" width="30">
-</p>
-<br>
+<hr />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cameronpovey&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<a href="https://linkedin.com/in/cameron-povey-47bb17146" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="left" width="50"/>
+</a>
+Find me on Linkedin
+<br clear="left"/>
+
+<br />
+
+## Languages:
+### Front End
+<a href="https://getbootstrap.com/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50"/>
+</a>
+<a href="https://react.dev/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+</a>
+
+### Backend & BaaS
+<a href="https://expressjs.com/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+</a>
+<a href="https://firebase.google.com/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+</a>
+<a href="https://nodejs.org/en" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50"/>
+</a>
+
+### App Development
+<a href="https://flutter.dev/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+</a>
+<a href="https://reactnative.dev/" target="blank">
+<img src="https://reactnative.dev/img/header_logo.svg" width="50"/>
+</a>
+
+### Database
+- mysql
+- sqllite
+- MongoDB
+- Firestore
+
+<a href="https://firebase.google.com/docs/firestore/" target="blank">
+<img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="" width="50"/>
+</a>
+<a href="" target="blank">
+<img src="" width="50"/>
+</a>
+
+## Tools
+
+
+## template
+
+<a href="" target="blank">
+<img src="" width="50"/>
+</a>
