@@ -73,9 +73,6 @@ Find me on Linkedin
 <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="50"/>
 </a>
 <a href="" target="blank">
-<img src="" width="50"/>
-</a>
-<a href="" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50"/>
 </a>
 <a href="" target="blank">
