@@ -73,6 +73,9 @@ Find me on Linkedin
 <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="50"/>
 </a>
 <a href="" target="blank">
+<img src="" width="50"/>
+</a>
+<a href="" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50"/>
 </a>
 <a href="" target="blank">
@@ -83,7 +86,7 @@ Find me on Linkedin
 </a>
 
 
-## Other Tools & Scripts
+## Other Tools & Skills
 - Linux
 - Figma
 - Windows
@@ -92,10 +95,6 @@ Find me on Linkedin
 - Ardiuno
 - Git
 - Terminal
-
-<a href="" target="blank">
-<img src="" width="50"/>
-</a>
 
 ## Stats and Info
 <img src="https://github-readme-stats.vercel.app/api?username=cameronpovey&theme=blue-green" />
