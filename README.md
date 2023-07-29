@@ -17,6 +17,9 @@ Find me on Linkedin
 ## Proficient Languages:
 ### Notable Base Languages
 <a href="" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50"/>
+</a>
+<a href="" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50"/>
 </a>
 <a href="" target="blank">
